@@ -29,6 +29,7 @@ This repository demonstrates various time series forecasting techniques and tool
 
     ```bash
     poetry env use python3.10
+    poetry lock
     poetry install
     ```
 
