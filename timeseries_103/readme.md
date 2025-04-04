@@ -95,15 +95,4 @@ If you want to work in VS Code:
 
 ---
 
-## Contributing
 
-1. [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) (if you’re on GitHub).
-2. Create a new branch for your changes.
-3. Make your improvements or updates.
-4. Submit a pull request.
-
----
-
-## License
-
-[MIT License](LICENSE) - or use whichever license suits your project.
