@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Poetry environment
+.venv/
+
+# Virtual environments in general
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# MacOS metadata
+.DS_Store
+
+# OS junk
+Thumbs.db
+*.pptx
