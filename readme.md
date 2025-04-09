@@ -39,16 +39,9 @@ We transform the time series into a tabular format and apply powerful ensemble a
 - **LightGBM**
 - **XGBoost**
 - **CatBoost**
+- **HistGradientBoosting**
 
 These models can capture nonlinear relationships and interaction effects between features. When paired with proper feature engineering, they often outperform traditional methods in real-world settings.
-
-#### 4. **Scikit-learn Models**
-We also experiment with standard machine learning models from `sklearn`, such as:
-- Linear Regression
-- Ridge and Lasso Regression
-- Random Forest Regressor
-
-These serve as baselines and demonstrate how classical ML models compare to more complex boosting techniques.
 
 ---
 
